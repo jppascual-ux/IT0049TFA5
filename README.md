@@ -13,8 +13,8 @@ defined in their controllers and loop through them with Blade's `@foreach`.
 | **Course / Section** | BSIT-BA / TX33 |
 | **Subject** | IT0049 — Web System Technologies |
 | **Professor** | Doc Mar Eli Sagsagat |
-| **Live site** | https://YOUR-SUBDOMAIN.infinityfreeapp.com |
-| **Repository** | https://github.com/YOUR-USERNAME/IT0049-TFA5-Laravel-POS |
+| **Live site** | https://jolo-pos.site.je |
+| **Repository** | https://github.com/jppascual-ux/IT0049TFA5 |
 
 ---
 
